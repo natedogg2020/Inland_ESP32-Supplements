@@ -6,3 +6,6 @@ This repository is intended to act as a collection of supplemental files and doc
 
 ### Inland ESP32Dev Board Pinmap (Top)
 ![Pin Functions](docs/Inland_ESP32_Top.jpg)
+
+### Other Useful Resources
+![Helpful Links](https://github.com/espressif/arduino-esp32)
