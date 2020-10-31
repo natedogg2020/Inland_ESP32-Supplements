@@ -8,4 +8,4 @@ This repository is intended to act as a collection of supplemental files and doc
 ![Pin Functions](docs/Inland_ESP32_Top.jpg)
 
 ### Other Useful Resources
-![Helpful Links](https://github.com/espressif/arduino-esp32)
+[Helpful Links](https://github.com/espressif/arduino-esp32)
